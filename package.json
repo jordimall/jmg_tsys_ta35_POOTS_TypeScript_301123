@@ -1,0 +1,29 @@
+{
+  "name": "jmg_tsys_ta35_poots_typescript_301123",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./build/src/main.js",
+    "build": "tsc",
+    "dev": "tsc -watch"
+  },
+  "keywords": [
+    "npm",
+    "js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordimall/jmg_tsys_ta35_POOTS_TypeScript_301123.git"
+  },
+  "author": "Jordi Mallafré Gazquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jordimall/jmg_tsys_ta35_POOTS_TypeScript_301123/issues"
+  },
+  "homepage": "https://github.com/jordimall/jmg_tsys_ta35_POOTS_TypeScript_301123#readme",
+  "dependencies": {
+    "typescript": "^5.3.2"
+  }
+}
