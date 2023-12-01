@@ -29,7 +29,7 @@ export class Raices {
         } else if (discriminante === 0) {
             this.obtenerRaiz(discriminante);
         } else {
-            console.log("La ecuación no tiene soluciones reales.");
+            console.log("La ecuación no tiene soluciones.");
         }
     };
 
