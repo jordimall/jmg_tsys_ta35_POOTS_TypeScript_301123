@@ -28,7 +28,7 @@ class Raices {
             this.obtenerRaiz(discriminante);
         }
         else {
-            console.log("La ecuación no tiene soluciones reales.");
+            console.log("La ecuación no tiene soluciones.");
         }
     };
     obtenerRaices = (discriminante) => {
